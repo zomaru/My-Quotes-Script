@@ -1,5 +1,5 @@
 #!/bin/bash
-# Only for fun! MyQuotes script
+# Only for fun! My-Quotes script
 # Give executable permission to run
 # Thanks to alexforsale for fixing the case syntax error & redefining the script
 
